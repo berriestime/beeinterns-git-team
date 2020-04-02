@@ -1,7 +1,7 @@
 # Next
-Team slogan 
+Next
 
-## Members:
+# Members:
 * Koroleva Elena (Team Lead)
 * Evstifeikina Anna (Developer #1)
 * Aurov Dmitry (Developer #2)
