@@ -2,8 +2,8 @@
 Team slogan 
 
 ## Members:
-* Member 1
-* Member 2
-* Member 3
-* Member 4
-* Member 5
+* Koroleva Elena (Team Lead)
+* Evstifeikina Anna (Developer #1)
+* Aurov Dmitry (Developer #2)
+* Shabrov Ilya (Developer #3)
+* Alhoev Rashid (QA Engineer)
