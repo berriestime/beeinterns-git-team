@@ -1,4 +1,4 @@
-# Team name
+# Next
 Team slogan 
 
 ## Members:
